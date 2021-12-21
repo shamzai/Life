@@ -1,0 +1,148 @@
+
+html,
+body {
+  color: azure;
+  min-width: 100%;
+  font-family: "Roboto", sans-serif;
+  background-color: #e5e5f7;
+  background-color: #020413;
+  opacity: 1;
+  background-image: radial-gradient(#080b28 2px, transparent 2px),
+    radial-gradient(#080b28 2px, #020413 2px);
+  background-size: 80px 80px;
+  background-position: 0 0, 40px 40px;
+}
+
+nav {
+  background-color: #050a32;
+  opacity: 1;
+  background-image: radial-gradient(#0f154b 2px, transparent 2px),
+    radial-gradient(#0f154b 2px, #050a32 2px);
+  background-size: 80px 80px;
+  background-position: 0 0, 40px 40px;
+}
+
+.clothing-card {
+  background-color: #070925;
+  opacity: 0.8;
+  background-size: 40px 40px;
+  background-image: repeating-linear-gradient(
+    45deg,
+    #030424 0,
+    #030424 4px,
+    #070925 0,
+    #070925 50%
+  );
+}
+
+.contact-form {
+  color: white;
+  background-color: #070925;
+  opacity: 0.8;
+  background-image: linear-gradient(
+      30deg,
+      #030424 12%,
+      transparent 12.5%,
+      transparent 87%,
+      #030424 87.5%,
+      #030424
+    ),
+    linear-gradient(
+      150deg,
+      #030424 12%,
+      transparent 12.5%,
+      transparent 87%,
+      #030424 87.5%,
+      #030424
+    ),
+    linear-gradient(
+      30deg,
+      #030424 12%,
+      transparent 12.5%,
+      transparent 87%,
+      #030424 87.5%,
+      #030424
+    ),
+    linear-gradient(
+      150deg,
+      #030424 12%,
+      transparent 12.5%,
+      transparent 87%,
+      #030424 87.5%,
+      #030424
+    ),
+    linear-gradient(
+      60deg,
+      #03042477 25%,
+      transparent 25.5%,
+      transparent 75%,
+      #03042477 75%,
+      #03042477
+    ),
+    linear-gradient(
+      60deg,
+      #03042477 25%,
+      transparent 25.5%,
+      transparent 75%,
+      #03042477 75%,
+      #03042477
+    );
+  background-size: 80px 140px;
+  background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
+}
+
+#newcollection {
+  background-color: #237edb;
+  opacity: 0.8;
+  background-image: linear-gradient(
+      30deg,
+      #444cf7 12%,
+      transparent 12.5%,
+      transparent 87%,
+      #444cf7 87.5%,
+      #444cf7
+    ),
+    linear-gradient(
+      150deg,
+      #444cf7 12%,
+      transparent 12.5%,
+      transparent 87%,
+      #444cf7 87.5%,
+      #444cf7
+    ),
+    linear-gradient(
+      30deg,
+      #444cf7 12%,
+      transparent 12.5%,
+      transparent 87%,
+      #444cf7 87.5%,
+      #444cf7
+    ),
+    linear-gradient(
+      150deg,
+      #444cf7 12%,
+      transparent 12.5%,
+      transparent 87%,
+      #444cf7 87.5%,
+      #444cf7
+    ),
+    linear-gradient(
+      60deg,
+      #444cf777 25%,
+      transparent 25.5%,
+      transparent 75%,
+      #444cf777 75%,
+      #444cf777
+    ),
+    linear-gradient(
+      60deg,
+      #444cf777 25%,
+      transparent 25.5%,
+      transparent 75%,
+      #444cf777 75%,
+      #444cf777
+    );
+  background-size: 80px 140px;
+  background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
+}
+
